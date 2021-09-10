@@ -22,3 +22,10 @@
 ### Programming skills
 ---
 *I study programming online and by my self. This course is a unique opportunity for me. First of all, I take courses and tests online and it helps me a lot. Programming helps me to develop and I like it.*
+
+### My English level
+---
+*I learn English on courses and by my self very intensively.*
+*I like to communicate with my friends in English.*
+*I want to speak English fluently and correctly. I believe in my success:)*
+*My Inglish level is A2 at the moment.*
