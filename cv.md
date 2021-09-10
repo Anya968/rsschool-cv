@@ -19,3 +19,6 @@
  + *I think that my strong point is purposefulness and disciplineand and responsibility.*
  + *I like to learn and learn new things.*
 ---
+### Programming skills
+---
+*I study programming online and by my self. This course is a unique opportunity for me. First of all, I take courses and tests online and it helps me a lot. Programming helps me to develop and I like it.*
